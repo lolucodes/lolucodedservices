@@ -1,0 +1,4 @@
+export const Type = {
+    TUITION_FEES: 'TUITION_FEES',
+    LIBRARY_FINES: 'LIBRARY_FINES'
+}
